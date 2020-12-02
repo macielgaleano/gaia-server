@@ -23,9 +23,9 @@ const productSchema = new Schema(
 );
 
 productSchema.pre("save", function (next) {
-  var user = this;
-  user.slug = slugify(user.name).toLowerCase();
-  user.slug.replace("/,.=+[]{}<>/g", "");
+  var product = this;
+  product.slug = slugify(product.name).toLowerCase();
+  product.slug.replace("/,.=+[]{}<>/g", "");
   next();
 });
 

@@ -17,5 +17,6 @@ router.use(checkJwt({ secret: process.env.SECRET, algorithms: ["HS256"] }));
 router.post("/admin/productos", product.store);
 router.patch("/admin/productos", product.update);
 router.put("/admin/productos", product.updateImg);
+router.delete("/admin/productos", product.delete);
 
 module.exports = router;
