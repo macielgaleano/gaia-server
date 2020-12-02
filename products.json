@@ -1,0 +1,379 @@
+[
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201156/principal-lg-1x.jpg"
+    ],
+    "name": "TV LED PANAVOX 24D3663",
+    "description": "TV monitor LED con entradas HDMI, USB, VGA.",
+    "price": 5450,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": false,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201156/principal-lg-1x.jpg"
+    ],
+    "name": "TV SMART PANAVOX 32 JMM59",
+    "description": "TV monitor LED SMART con entradas HDMI, USB, VGA.",
+    "price": 7550,
+    "brand": "",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201155/principal-lg-1x.jpg"
+    ],
+    "name": "TV SMART PANAVOX 58UHD X51",
+    "description": "TV monitor LED SMART Ultra HD, HDR, Salida y entrada de audio por bluetooth",
+    "price": 21450,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201155/principal-lg-1x.jpg"
+    ],
+    "name": "TV SMART PANAVOX 65UHD X51",
+    "description": "TV monitor LED con entradas HDMI, USB, VGA.",
+    "price": 30500,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201157/principal-lg-1x.jpg"
+    ],
+    "name": "TV SMART PANAVOX 43 JMM59",
+    "description": "TV monitor LED SMART con entradas HDMI, USB.",
+    "price": 11990,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": false,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/201157/principal-lg-1x.jpg"
+    ],
+    "name": "TV SMART PANAVOX 50UHD X51",
+    "description": "TV monitor LED SMART Ultra HD con entradas HDR, Audio Bluetooth.",
+    "price": 18350,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": false,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205189/principal-lg-1x.jpg"
+    ],
+    "name": "Celular HUAWEI Y55P DRA-LX9",
+    "description": "DUAL SIM, Cámara 8 MP, Pantalla 5.45",
+    "price": 5250,
+    "brand": "HUAWEI",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205180/principal-lg-1x.jpg"
+    ],
+    "name": "Celular MOTOROLA MOTO E6 PLAY",
+    "description": "DUAL SIM, Cámara 13 MP, Pantalla 5.5",
+    "price": 5790,
+    "brand": "MOTOROLA",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205179/principal-lg-1x.jpg"
+    ],
+    "name": "Celular LG K40 DS X 420",
+    "description": "DUAL SIM, Cámara 16 MP, Pantalla 5.7",
+    "price": 6250,
+    "brand": "LG",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205172/principal-lg-1x.jpg"
+    ],
+    "name": "Celular XIAOMI REDMI 8 32GB",
+    "description": "DUAL SIM, Cámara 12 MP, Pantalla 6.2",
+    "price": 8290,
+    "brand": "XIAOMI",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205177/principal-lg-1x.jpg"
+    ],
+    "name": "Celular XIAOMI REDMI NOTE 9S 128GB",
+    "description": "DUAL SIM, Cámara 48+8+5+2 MP, Pantalla 6.67",
+    "price": 14950,
+    "brand": "XIAOMI",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205190/principal-lg-1x.jpg"
+    ],
+    "name": "Celular HUAWEI P40 LITE JNY-LX2",
+    "description": "DUAL SIM, Cámara 48+8+2+2 MP, Pantalla 6.4",
+    "price": 15350,
+    "brand": "HUAWEI",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": false,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205194/principal-lg-1x.jpg"
+    ],
+    "name": "Celular MOTOROLA PLUS G9 XT2087-1 128GB",
+    "description": "DUAL SIM, Cámara 48+8+2+2 MP, Pantalla 6.81",
+    "price": 16450,
+    "brand": "MOTOROLA",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": false,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/205150/principal-lg-1x.jpg"
+    ],
+    "name": "Celular APPLE IPHONE 8 A1905 64GB",
+    "description": "Cámara 12 MP, Pantalla 4.7, Lector de huella dactilar",
+    "price": 36990,
+    "brand": "APPLE",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31674/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK HP 14-CM0132LA",
+    "description": "Procesador AMD E2-9000, Disco duro 1TB, 4GB RAM, Windows 10",
+    "price": 16950,
+    "brand": "HP",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31659/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK LENOVO IDEAPAD S145-15IGM 500GB",
+    "description": "Procesador INTEL Celeron, Disco duro HDD 512GB, 4GB RAM, Windows 10",
+    "price": 18890,
+    "brand": "LENOVO",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31662/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ACER A315-34-C7BT-ES",
+    "description": "Procesador INTEL Celeron, Disco duro HDD 512GB, 4GB RAM, Windows 10",
+    "price": 19250,
+    "brand": "ACER",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31664/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ASUS X543MA-GQ443T",
+    "description": "Procesador INTEL Celeron, Disco duro HDD 512GB, 4GB RAM, Windows 10",
+    "price": 21495,
+    "brand": "ASUS",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31675/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ASUS X509JA-BR638T",
+    "description": "Procesador INTEL CORE I3, Disco duro SSD 128, 4GB RAM, Windows 10",
+    "price": 25785,
+    "brand": "ASUS",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31665/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ASUS X543UA-GO3148T",
+    "description": "Procesador INTEL CORE I3, Disco duro HDD 1TB, 4GB RAM, Windows 10",
+    "price": 29850,
+    "brand": "ASUS",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31663/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ACER A315-56-38-EY",
+    "description": "Procesador INTEL CORE I3, Disco duro HDD 1TB, 4GB RAM, Windows 10",
+    "price": 29990,
+    "brand": "ACER",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31669/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK ACER A315-56-50-9T-ES",
+    "description": "Procesador INTEL CORE I5, Disco duro SDD 256GB, 8GB RAM, Windows 10",
+    "price": 35745,
+    "brand": "ACER",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/31667/principal-lg-1x.jpg"
+    ],
+    "name": "NOTEBOOK HP 15-DA0012LA",
+    "description": "Procesador INTEL CORE I7, Disco duro HDD 1TB, 8GB RAM, Windows 10",
+    "price": 54250,
+    "brand": "HP",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/80447/principal2-lg-1x.jpg"
+    ],
+    "name": "MICROONDAS PANAVOX EXPRESS 25N",
+    "description": "Digital con 11 niveles de potencia",
+    "price": 3260,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/80446/principal-lg-1x.jpg"
+    ],
+    "name": "MICROONDAS PANAVOX INOX 25",
+    "description": "Digital, acero inoxidable con 5 niveles de potencia",
+    "price": 3695,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/80524/principal-lg-1x.jpg"
+    ],
+    "name": "HORNO ELECTRICO PANAVOX INOX 35",
+    "description": "Grill, timer de 90 miniutos",
+    "price": 2395,
+    "brand": "PANAVOX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/34956/principal-lg-1x.jpg"
+    ],
+    "name": "COCINA BRONX ETNA",
+    "description": "Cuatro hornallas, horno supergas, mesada de acero inoxidable",
+    "price": 3395,
+    "brand": "BRONX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/34951/principal2-lg-1x.jpg"
+    ],
+    "name": "COCINA BRONX OLIVA INOX",
+    "description": "Cuatro hornallas, horno a supergas, frente y mesada de acero inoxidable",
+    "price": 5160,
+    "brand": "BRONX",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  },
+  {
+    "pictures": [
+      "https://api.carlosgutierrez.com.uy/fotos/fotos/20725/principal-lg-1x.jpg"
+    ],
+    "name": "FREIDORA SIN ACEITE MONDIAL AF-03",
+    "description": "Sin aceite, potencia 1500W, capacidad 3200ml",
+    "price": 4250,
+    "brand": "MONDIAL",
+    "stock": 100,
+    "category": "Navidad",
+    "outstanding": true,
+    "slug": ""
+  }
+]

@@ -11,5 +11,5 @@ app.use(express.json());
 app.use(router);
 
 app.listen(process.env.APP_PORT, () => {
-  console.log("listening on 8000");
+  console.log("listening on " + process.env.APP_PORT);
 });
