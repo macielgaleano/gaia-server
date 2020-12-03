@@ -31,15 +31,7 @@ module.exports = {
     res.json(await Product.find({}).populate("category"));
   },
   show: async (req, res) => {
-    if (req.params.slug) {
-      let product = await Product.findOne({ slug: req.params.slug }).populate("category");
-      if (product) {
-        res.json(product);
-      } else {
-        res.status(400).json({ status: 400, messagge: "el producto no existe" });
-      }
-    }
-    res.status(404).json({ status: 400, messagge: "La url es invalida" });
+    res.json(await Product.findOne({ slug: req.params.slug }).populate("category"));
   },
 
   delete: async (req, res) => {
