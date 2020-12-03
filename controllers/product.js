@@ -120,7 +120,7 @@ module.exports = {
             name: fields.name,
             description: fields.description,
             price: fields.price,
-            pictures: [data.location],
+            pictures: [data.Location],
             stock: fields.stock,
             colors: fields.colorss,
             materials: fields.materials,
@@ -129,7 +129,7 @@ module.exports = {
             outstanding: fields.outstanding,
           });
           await product.save();
-          return res.json({ status: 200, data: data.location, product: product });
+          return res.json({ status: 200, data: data.Location, product: product });
         });
       } else {
         res.status(500).json({ message: "Internal server error" });
