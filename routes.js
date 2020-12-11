@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const product = require("./controllers/product");
+const category = require("./controllers/product");
 const authController = require("./controllers/authController");
 const checkJwt = require("express-jwt");
 const seeder = require("./seeder");
@@ -13,6 +14,9 @@ router.post("/token/login/admin", authController.adminLogin);
 router.patch("/token/logout/admin", authController.adminLogout);
 
 router.use(checkJwt({ secret: process.env.SECRET, algorithms: ["HS256"] }));
+
+router.get("/productos/lista/categorias", category.show);
+router.post("/admin/categorias", category.store);
 
 router.post("/admin/productos", product.store);
 router.patch("/admin/productos", product.update);
