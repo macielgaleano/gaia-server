@@ -114,7 +114,7 @@ module.exports = {
             price: fields.price,
             pictures: [data.Location],
             stock: fields.stock,
-            colors: fields.colorss,
+            colors: fields.colors,
             materials: fields.materials,
             size: fields.size,
             category: fields.category,
