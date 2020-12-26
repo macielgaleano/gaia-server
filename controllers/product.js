@@ -36,16 +36,11 @@ module.exports = {
 
   delete: async (req, res) => {
     if (req.params.slug) {
-      await deleteOne({ slug: req.params.slug }, (err, res) => {
+      await Product.deleteOne({ slug: req.params.slug }, (err, response) => {
         if (err) {
-          res
-            .status(404)
-            .json({ status: 500, messagge: "Error interno o producto invalido" });
-        } else {
-          res
-            .status(200)
-            .json({ status: 200, messagge: "producto elminado correctamente" });
+          res.json({ status: 500, messagge: "Error interno o producto invalido" });
         }
+        return res.send({ status: 200, messagge: "producto elminado correctamente" });
       });
     } else {
       res.status(404).json({ status: 400, messagge: "Producto invalido" });
