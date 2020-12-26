@@ -36,7 +36,7 @@ module.exports = {
 
   delete: async (req, res) => {
     if (req.params.slug) {
-      await deleteOne({ slug: slug }, (err, res) => {
+      await deleteOne({ slug: req.params.slug }, (err, res) => {
         if (err) {
           res
             .status(404)

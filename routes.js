@@ -21,6 +21,6 @@ router.post("/admin/categorias", category.store);
 router.post("/admin/productos", product.store);
 router.patch("/admin/productos", product.update);
 router.put("/admin/productos", product.updateImg);
-router.delete("/admin/productos", product.delete);
+router.delete("/admin/productos/:slug", product.delete);
 
 module.exports = router;
